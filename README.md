@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### Further Installation Steps
 
-![Screenshot (141)](https://github.com/user-attachments/assets/fc20f480-4001-4510-9988-11976fd0135c
+![Screenshot (141)](https://github.com/user-attachments/assets/fc20f480-4001-4510-9988-11976fd0135c)
 In this Step, I opened the instillation files to install the database.
 
 ![Screenshot (142)](https://github.com/user-attachments/assets/a12b1efb-61d6-4de8-b6d8-86b9bfb98ce4)
