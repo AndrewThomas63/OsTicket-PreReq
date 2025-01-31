@@ -39,7 +39,7 @@ I Used PHP code to change change the current password to a new one, so I could l
 This shows that I successfully installed the database with all the contents in the database
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/80685135-3361-42a1-aca2-75dfe9a9a684)
-I successdully changed the password and was able to log into OsTicket database successfully.
+I successfully changed the password and was able to log into OsTicket database successfully.
 
 ### Navagating OsTicket
 ![Screenshot (40)](https://github.com/user-attachments/assets/2551eba8-9d9c-4873-93de-f0b3201d8deb)
