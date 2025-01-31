@@ -1,9 +1,7 @@
-# OsTicket-PreReq
+# Navagating OS Ticket and OS Ticket Users
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 ## Environments and Technologies Used
 
@@ -16,7 +14,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10 (21H2)
 
-### Further Installation Steps
+### Basic Instillation Steps
 
 ![Screenshot (141)](https://github.com/user-attachments/assets/fc20f480-4001-4510-9988-11976fd0135c)
 In this Step, I opened the instillation files to install the database.
@@ -35,7 +33,7 @@ I attempted to change my password here, because I couldn't log in into the osTic
 my password.
 
 ![Screenshot (150)](https://github.com/user-attachments/assets/0bf1a09c-4e54-487b-84b4-354c3c1cdff6)
-This is the code that I used to change change the current password to a new one, so I could log in
+I Used PHP code to change change the current password to a new one, so I could log in
 
 ![Screenshot (147)](https://github.com/user-attachments/assets/4dd38bf0-1cbb-408d-8fac-a262e31bbad7)
 This shows that I successfully installed the database with all the contents in the database
